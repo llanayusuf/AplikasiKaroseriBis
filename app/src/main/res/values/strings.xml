@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AplikasiKaroseriBis</string>
+    <string name="pemesan">pemesan</string>
+    <string name="jenis_chassis">jenis chassis</string>
+    <string name="body">Body</string>
+    <string name="jumlahsasis">jumlahsasis</string>
+    <string name="cetak">cetak</string>
+    <string name="output_pemesan">output pemesan</string>
+    <string name="output_jns_sasis">output jns sasis</string>
+    <string name="output_body">output body</string>
+    <string name="output_jumlah_sasis">output jumlah sasis</string>
+</resources>
